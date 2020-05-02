@@ -21,7 +21,7 @@ Here's what seems to help me.
 
 3. **Recovery.** The emotional toll of feeling guilty about not doing something is heavy. If I'm not recovered, just thinking about the original project can still overwhelm me with a sinking, deflated feeling. Depending on how deeply I was "stuck", I could need a break for a few days or even years to really heal.
 
-4. **Analyze.** Once I feel ready, I can take a critical look at the project I wanted to tackle. What threw me off? What changes could I make that would make it more appealing? Some common types of changes include:
+4. **Analysis & adjustment.** Once I feel ready, I can take a critical look at the project I wanted to tackle. What threw me off? What changes could I make that would make it more appealing? Some common types of changes include:
 
   - **Scope.** This task might be too large for me in my current circumstances. I'm far likelier to commit to a smaller, well-defined task (ex. "make a 3d sphere appear in the browser") than a large, ambiguous one (ex. "start building a 3d game"). I can always (and very often do) expand it as I go.
 
