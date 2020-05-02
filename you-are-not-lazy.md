@@ -30,4 +30,4 @@ I mentioned this might take years, and I wasn't kidding. Particularly if you've 
 
 I remember trying to learn "how to code" several times, with zero success. It was always somehow boring and impossibly difficult at the same time. But years later, I tried instead to just learn "how to make a button on a website change colors" and, well, I'm a software engineer now.
 
-Nothing about this process is quick or easy. But if there's anything I've learned from my experiences, particularly around self-teaching, it's that learning to love doing something is even more important - and yields better long-term results - than doing the thing.
+Nothing about this process is quick or easy. But if there's anything I've learned from my experiences, particularly around self-teaching, it's that learning to love doing something is even more important - and yields better long-term results - than just making yourself do the thing.
