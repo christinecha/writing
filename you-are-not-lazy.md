@@ -10,7 +10,8 @@ I reject the idea that when I hit this wall, I must force myself to continue. I 
 
 The practical suggestions to combat stalled progress often include using lists, marking deadlines, and something involving sticky notes. I do believe these things can be helpful, especially when looking to improve efficiency or organization.
 
-But when you're really stuck?\
+But when you're *really* stuck?
+
 Like when you're "staring at your phone or the wall for the past 13 weekends feeling more and more guilty about not working on the thing, causing you to dislike even thinking about it" stuck?
 
 Here's what seems to help me.
@@ -31,8 +32,10 @@ Here's what seems to help me.
 
 5. **Repeat.** Sometimes I'm able to go through these steps, pinpoint a change, and the inspiration seems to just flow back. But usually - and especially when I'm already at lowered capacity (maybe due to a global pandemic?) - I find that one round of this process doesn't quite get me there. So I put the laptop down again. Cut the scope down again. Think of some new ideas. Play some video games. Try again next weekend.
 
-I mentioned this could take years. It's particularly difficult after having practiced a skill for a long time without spending time on **why**, like many things we pick up as kids. I've played piano since I was 3, and it's still difficult to enjoy without feeling guilty and frustrated.
+I mentioned this could take years. It's particularly difficult after having practiced a skill for a long time without spending time on **why**, like many things we pick up as kids. I've played piano since I was 3, and now as an adult it's tough to enjoy without negative thoughts (frustration, guilt, shame) flooding in at the first wrong note. I still haven't pinpointed exactly what I love about playing after all these years, but I'm working on it.
 
-I remember trying to learn "how to code" several times, with zero success. It was always somehow boring and impossibly difficult at the same time. But years later, I tried instead to just learn "how to make a button on a website change colors" and, well, now I'm a software engineer.
+In contrast, I remember trying to learn "how to code" a few times, with zero success. It was always somehow boring yet impossible at the same time, and I dropped the idea of ever becoming a developer. Years later, I wanted to improve my skills as a designer by learning "how to change the color of a button" and, well, now I'm a software engineer.
 
-When I'm feeling stuck, it's not because I'm lazy. It's because there's some sort of conflict to debug. Besides, the best things seem to happen not when I'm churning through tasks at high speed, but when I try to understand myself better - what brings me joy, what motivates me.
+So far, I still *love* writing code. I attribute a large portion of that to how clear - and limited - my initial intent was. When I saw my button change color for the first time, I was absolutely thrilled. It wasn't a career goal, or a self-imposed obligation. I was - and am still! - just chasing that excitement.
+
+When I'm feeling stuck, it's not because I'm lazy. It's because that excitement isn't there. It's because there's some sort of conflict; something isn't right. So let's do our programming duty and start debugging.
