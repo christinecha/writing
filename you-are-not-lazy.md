@@ -6,7 +6,7 @@
 
 You, my fellow programmer, have learned languages and built worlds. You have spent countless hours asking questions and answering them. You are a detective, an architect, a designer, a writer, a researcher, an artist. You, my friend, are **not** lazy.
 
-I reject the idea that when I hit this wall, I must force myself to continue. I reject the idea that it is a personal failure to lose motivation.
+I reject the idea that when I hit this wall, I must force myself to continue. I reject the idea that it is an inherent, personal failure to lose motivation.
 
 The practical suggestions to combat stalled progress often include using lists, marking deadlines, and something involving sticky notes. I do believe these things can be helpful, especially when looking to improve efficiency or organization.
 
