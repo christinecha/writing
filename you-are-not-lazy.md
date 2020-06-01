@@ -36,6 +36,6 @@ I mentioned this could take years. It's particularly difficult after having prac
 
 In contrast, I remember trying to learn "how to code" a few times, with zero success. It was always somehow boring yet impossible at the same time, and I dropped the idea of ever becoming a developer. Years later, I wanted to improve my skills as a designer by learning "how to change the color of a button" and, well, now I'm a software engineer.
 
-So far, I still *love* writing code. I attribute a large portion of that to how clear - and limited - my initial intent was. When I saw my button change color for the first time, I was absolutely thrilled. It wasn't a career goal, or a self-imposed obligation. I was - and am still! - just chasing that excitement.
+So far, I still *love* writing code. I attribute a large portion of that to how clear - and limited - my initial intent was. When I saw my button change color for the first time, I was absolutely thrilled. It wasn't a career goal, or a self-imposed obligation. I was (and am still!) just chasing that excitement.
 
 When I'm feeling stuck, it's not because I'm lazy. It's because that excitement isn't there. It's because there's some sort of conflict; something isn't right. So let's do our programming duty and start debugging.
