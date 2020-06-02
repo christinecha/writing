@@ -28,7 +28,7 @@ Here's what seems to help me.
 
   - **The right level of challenge.** If it's very similar to work I've done before, it might feel boring. On the other hand, if there are too many unknowns, I might not know where to even start. The delicate balance of familiarity vs. challenge is key to sparking motivation.
 
-  - **Subject matter.** Am I tackling this project because it actually moves me? Is the idea fascinating? Beautiful? Hilarious? If I'm leaning towards words like "interesting", "useful", or "cool", I might have just picked this project because that's what I *should* be doing. Says who?
+  - **Subject matter.** Why am I doing this work? Because it's fascinating? Beautiful? Hilarious? Impactful? If I find myself having trouble answering this - or having to convince myself it's interesting - it's often because I've chosen work "I *should* be doing" rather than what I *want* to be doing.
 
 5. **Repeat.** Sometimes I'm able to go through these steps, pinpoint a change, and the inspiration seems to just flow back. But usually - and especially when I'm already at lowered capacity (maybe due to a global pandemic?) - I find that one round of this process doesn't quite get me there. So I put the laptop down again. Cut the scope down again. Think of some new ideas. Play some video games. Try again next weekend.
 
